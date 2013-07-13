@@ -1,0 +1,26 @@
+a:link{
+	color: red;
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: black;
+}
+
+a:active{
+	color: blue;
+	background-color: red;
+}
+
+html{
+	background-image: url(dark_room.jpg);
+	/*background-size: cover;*/
+}
+
+p{
+	font-size: 25px;
+	color: white;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 5px 5px gray;
+
+}
