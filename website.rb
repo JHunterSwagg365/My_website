@@ -6,11 +6,6 @@ get '/' do
 
 end
 
-
-get '/HomePage' do
-	"Wassup world"
-end
-
 get '/instructions' do
 	erb :instructions
 end
