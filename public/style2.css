@@ -1,0 +1,25 @@
+.begin{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Bad Script', cursive;
+}
+
+.button_begin{
+	margin-left: 50%; 
+}
+
+.dragpic{
+	margin-left: 25%
+}
+
+pre{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Bad Script', cursive;
+	font-size: 50px;
+	margin-bottom: 10px;
+}
+
+body{
+	background-color: red;
+}
