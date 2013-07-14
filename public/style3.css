@@ -1,26 +1,34 @@
 a:link{
-	color: red;
+	color: black;
 }
 
 a:hover{
 	text-decoration: none;
-	background-color: black;
 }
 
 a:active{
 	color: blue;
-	background-color: red;
+	background-color: black;
 }
 
 html{
 	background-image: url(dark_room.jpg);
-	/*background-size: cover;*/
 }
 
 p{
-	font-size: 25px;
+	font-size: 45px;
 	color: white;
 	font-family: 'Bad Script', cursive;
 	text-shadow: 5px 5px gray;
+	font-weight: bolder;
 
+}
+
+.door_caption{
+	font-family: 'Bad Script', cursive;
+	font-weight: bolder;
+}
+
+.door2{
+	margin-left: 25%;
 }
