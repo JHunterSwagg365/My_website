@@ -14,8 +14,8 @@ get '/dark_room' do
 	erb :dark_room
 end
 
-get '/burger_ending' do
-	erb :burger_ending
+get '/Awakened_dragon_ending' do
+	erb :Awakened_dragon_ending
 end
 
 get '/dragon_attack_ending' do

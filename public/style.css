@@ -28,7 +28,6 @@ body{
 button{
 	margin-top: 30%;
 	color: black;
-	/*background-color: red;*/
 	padding: 0px 5px 15px !important;
 	font-size: 18px !important;
 	background-color: red;
@@ -39,10 +38,10 @@ button{
 	-webkit-border-radius: 100px;
 	border: 3px solid black;
 	cursor: pointer;
-	/*box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;*/
-	/*-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;*/
-	/*-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;*/
-	/*outline-color: red;*/
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	outline-color: red;
 }
 
 audio{
